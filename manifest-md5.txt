@@ -1,0 +1,5 @@
+359ea2cda2d71e13576c0c65c4d02ac4  data/workspace/postBuild
+d41d8cd98f00b204e9800998ecf8427e  data/LICENSE
+73bdae0e08ff561889369c8d386a00f1  data/workspace/requirements.txt
+1ac23d015a647baeac2304b371ab1923  data/workspace/wt_quickstart.ipynb
+6c334ab811588e371a8509f867eac88d  data/workspace/.ipynb_checkpoints/wt_quickstart-checkpoint.ipynb

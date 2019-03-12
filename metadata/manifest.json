@@ -1,0 +1,70 @@
+{
+  "@context": [
+    "https://w3id.org/bundle/context",
+    {
+      "schema": "http://schema.org/"
+    },
+    {
+      "Datasets": {
+        "@type": "@id"
+      }
+    }
+  ],
+  "@id": "https://data.wholetale.org/api/v1/tale/5c875b6feff2c60001d2810f",
+  "Datasets": [
+    {
+      "@id": "doi:10.5065/D6862DM8",
+      "@type": "Dataset",
+      "identifier": "doi:10.5065/D6862DM8",
+      "name": "Humans and Hydrology at High Latitudes: Water Use Information",
+      "publisher": {
+        "@id": "https://www.dataone.org/",
+        "@type": "Organization",
+        "Description": "A federated data network allowing access to science data",
+        "legalName": "DataONE"
+      }
+    }
+  ],
+  "aggregates": [
+    {
+      "uri": "../../workspace/requirements.txt"
+    },
+    {
+      "uri": "../data/workspace/wt_quickstart.ipynb"
+    },
+    {
+      "uri": "../data/workspace/LICENSE"
+    },
+    {
+      "bundledAs": {
+        "filename": "usco2005.xls",
+        "folder": "../data/data/Humans and Hydrology at High Latitudes: Water Use Information"
+      },
+      "schema:isPartOf": "doi:10.5065/D6862DM8",
+      "uri": "https://cn.dataone.org/cn/v2/resolve/urn:uuid:01a53103-8db1-46b3-967c-b42acf69ae08"
+    },
+    {
+      "schema:license": "CC-BY-4.0",
+      "uri": "../LICENSE"
+    },
+    {
+      "@type": "schema:HowTo",
+      "uri": "../README.txt"
+    }
+  ],
+  "createdBy": {
+    "@id": "Craig Willis",
+    "@type": "schema:Person",
+    "schema:email": "willis8@illinois.edu",
+    "schema:familyName": "Willis",
+    "schema:givenName": "Craig"
+  },
+  "createdOn": "2019-03-12 07:10:39.846000",
+  "schema:category": "Examples",
+  "schema:description": "Description of my example Tale.",
+  "schema:identifier": "5c875b6feff2c60001d2810f",
+  "schema:image": "https://raw.githubusercontent.com/whole-tale/images/demo-graph2.jpg",
+  "schema:name": "Example Tale",
+  "schema:version": 6
+}
+

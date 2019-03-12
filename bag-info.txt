@@ -1,0 +1,3 @@
+Payload-Oxum: 793729.5
+Bagging-Date: 2019-03-12
+Bag-Size: 779.1 KB

@@ -1,0 +1,10 @@
+94e9cb666dc7a82599cac79614bd1c6b  fetch.txt
+4eefc9255c0daacfe946581bc631ff61  run.sh
+729ebc3d66edde4af3de36beaa9e0836  README
+e8fa0d0bbd7cf0cbe37e1e88009ac1a6  metadata/manifest.json
+792deb08963924ef2e322526f8b099c3  build.sh
+eba890d7270d1d8b07c2e9c1ae727f15  manifest-md5.txt
+121fda732754e81801b2d169bc757d8a  bag-info.txt
+9e5ad981e0d29adc278f6a294b8c2aca  bagit.txt
+6e6fe862c89b35d0db8c473e018cac31  LICENSE
+18248bb85c16bb473ffd51bff738beb8  metadata/environment.json

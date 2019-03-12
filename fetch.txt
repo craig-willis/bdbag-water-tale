@@ -1,0 +1,1 @@
+https://cn.dataone.org/cn/v2/resolve/urn:uuid:01a53103-8db1-46b3-967c-b42acf69ae08 6427136 data/data/usco2005.xls

@@ -1,0 +1,14 @@
+{
+    "config": {
+      "buildpack": "PythonBuildPack",
+      "command": "jupyter notebook --no-browser --port {port} --ip=0.0.0.0 --NotebookApp.token={token} --NotebookApp.base_url=/{base_path} --NotebookApp.port_retries=0",
+      "targetMount": "/WholeTale/workspace",
+      "template": "base.tpl",
+      "urlPath": "?token={token}",
+      "user": "jovyan"
+    },
+    "icon": "https://raw.githubusercontent.com/whole-tale/jupyter-base/master/squarelogo-greytext-orangebody-greymoons.png",
+    "iframe": true,
+    "name": "Jupyter Classic",
+}
+
